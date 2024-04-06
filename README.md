@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rdanutalexandru1993&repo=cppSmallProjects)](https://github.com/anuraghazra/cppSmallProjects)
 
 <!--
 **rdanutalexandru1993/rdanutalexandru1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
