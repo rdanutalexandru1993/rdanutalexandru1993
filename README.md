@@ -1,4 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rdanutalexandru1993&repo=smallIndividualScripts)](https://github.com/rdanutalexandru1993/smallIndividualScripts)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rdanutalexandru1993&repo=linuxProfileConfig)](https://github.com/rdanutalexandru1993/linuxProfileConfig)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rdanutalexandru1993&repo=cppSmallProjects)](https://github.com/rdanutalexandru1993/cppSmallProjects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rdanutalexandru1993&repo=sort_photo)](https://github.com/rdanutalexandru1993/sort_photo)
